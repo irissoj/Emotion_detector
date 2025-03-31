@@ -1,0 +1,1 @@
+pip install django djangorestframework tensorflow torch torchvision librosa opencv-python numpy scipy django-cors-headers
