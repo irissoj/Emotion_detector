@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class MindConfig(AppConfig):
+class EmotionConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'mind'
+    name = 'emotion'

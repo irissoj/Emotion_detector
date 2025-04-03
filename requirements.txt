@@ -1,2 +1,2 @@
-pip install django djangorestframework  tensorflow librosa google-generativeai django-cors-headers 
-pip install transformers
+pip install torch torchaudio transformers django djangorestframework google-generativeai python-dotenv
+pip install transformers xgboost
