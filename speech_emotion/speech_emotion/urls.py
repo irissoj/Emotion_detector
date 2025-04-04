@@ -1,7 +1,8 @@
+# speech_emotion/urls.py (project-level)
 from django.contrib import admin
 from django.urls import path, include
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('api/', include('my_app.urls')),  # Include the app URLs under the /api/ path
+    path('api/', include('emotion.urls')),  # Replace with your app name
 ]
